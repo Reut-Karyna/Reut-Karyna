@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karynawesome
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning HTML, CSS, Python
+- 🌱 I’m currently learning HTML, CSS, Python, Java Script
 - 💞️ I’m looking to collaborate on new knowledge
 - 📫 How to reach me karyna.reut@yandex.ru
 
