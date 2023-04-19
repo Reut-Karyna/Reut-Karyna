@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karyna-Reut
+- 👋 Hi, I’m @Reut-Karyna
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning HTML, CSS, Python.
 - 💞️ I’m looking to collaborate on new knowledge.
