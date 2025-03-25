@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reut-Karyna
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning HTML, CSS, Python.
+- 👀 I’m interested in computer science and AI.
+- 🌱 I’m currently improving my skills.
 - 💞️ I’m looking to collaborate on new knowledge.
 - 📫 How to reach me karyna.reut@outlook.com
 
